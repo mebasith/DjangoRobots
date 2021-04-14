@@ -1,0 +1,30 @@
+[
+    {
+        "model": "api.Robot",
+        "pk": 1,
+        "fields": {
+        "name": "HAL 9000",
+        "fuelType": "Diesel",
+        "fuelLevel": 88.34
+        }
+    }, 
+    {
+        "model": "api.Robot",
+        "pk": 2,
+        "fields": {
+        "name": "R2D2",
+        "fuelType": "Electric",
+        "fuelLevel": 88.34
+        }
+    },
+    {
+        "model": "api.Robot",
+        "pk": 3,
+        "fields": {
+        "name": "Bender",
+        "fuelType": "Gas",
+        "fuelLevel": 88.34
+        }
+    }
+
+]
