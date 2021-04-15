@@ -5,7 +5,9 @@
         "fields": {
         "name": "HAL 9000",
         "fuelType": "Diesel",
-        "fuelLevel": 88.34
+        "fuelLevel": 88.34, 
+        "imageUrl":
+          "https://upload.wikimedia.org/wikipedia/commons/f/f6/HAL9000.svg"
         }
     }, 
     {
@@ -14,7 +16,8 @@
         "fields": {
         "name": "R2D2",
         "fuelType": "Electric",
-        "fuelLevel": 88.34
+        "fuelLevel": 88.34,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/39/R2-D2_Droid.png"
         }
     },
     {
@@ -23,7 +26,9 @@
         "fields": {
         "name": "Bender",
         "fuelType": "Gas",
-        "fuelLevel": 88.34
+        "fuelLevel": 88.34,
+        "imageUrl":
+          "https://upload.wikimedia.org/wikipedia/en/a/a6/Bender_Rodriguez.png"
         }
     }
 

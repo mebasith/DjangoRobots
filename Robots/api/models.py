@@ -11,3 +11,5 @@ class Robot(models.Model):
     name = models.CharField(max_length=50)
     fuelType = models.CharField(max_length=50, choices=FuelTypes.choices) 
     fuelLevel = models.IntegerField(default=100)
+    imageUrl = models.CharField(max_length=500)
+
